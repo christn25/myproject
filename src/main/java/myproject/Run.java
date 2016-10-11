@@ -19,6 +19,7 @@ public class Run {
 		System.out.println("Mais pourquoi tu dis 'yep' ??");
 		System.out.println("Parce que j'ai envi de dire 'yep'!");
 		System.out.println("Et je vous déconseille la mousse au chocolat du patron");
+		System.out.println("Cookiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiies !!!");
 	}
 }
 
