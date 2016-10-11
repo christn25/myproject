@@ -1,13 +1,13 @@
 package myproject;
 
-import com.google.common.base.Strings;
+//import com.google.common.base.Strings;
 
 public class Run {
 
 	public static void main(String[] args) {
-		System.out.println(Strings.isNullOrEmpty("Yolo"));
+		/*System.out.println(Strings.isNullOrEmpty("Yolo"));
 		System.out.println(Strings.isNullOrEmpty(""));
-		System.out.println(Strings.isNullOrEmpty(null));
+		System.out.println(Strings.isNullOrEmpty(null));*/
 		System.out.println("Yep");
 		System.out.println("Yep");
 		System.out.println("Yep");
@@ -20,3 +20,5 @@ public class Run {
 		System.out.println("Et je vous déconseille la mousse au chocolat du patron");
 	}
 }
+
+//PRESENT !!!!!!!!!!!!!!!!!!
